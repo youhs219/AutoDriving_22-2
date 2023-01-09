@@ -3,7 +3,7 @@
 ### temporary
 ###### temp
 
----pip install python-opencv---
+---
 '''
 
 '''
